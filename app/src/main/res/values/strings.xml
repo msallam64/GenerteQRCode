@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GenerteQRCode</string>
+    <string name="Text">Status: -</string>
+    <string name="on">Turn On</string>
+    <string name="off">Turn Off</string>
+    <string name="List">List paired Devices</string>
+    <string name="Find">Search new Devices / Cancel</string>
+</resources>
